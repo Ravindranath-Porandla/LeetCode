@@ -26,3 +26,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+# Array
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+# Matrix
+|  |
+| ------- |
+| [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
