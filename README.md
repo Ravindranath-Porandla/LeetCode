@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1127-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1962-single-threaded-cpu) |
 ## Sorting
 |  |
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1127-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1962-single-threaded-cpu) |
 <!---LeetCode Topics End-->
