@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0127-word-ladder) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
