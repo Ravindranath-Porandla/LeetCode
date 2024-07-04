@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Hash Table
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
