@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3212-count-the-number-of-good-partitions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
