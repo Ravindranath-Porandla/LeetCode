@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1127-last-stone-weight](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1127-last-stone-weight) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Design
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Data Stream
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 ## String
 |  |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0801-is-graph-bipartite](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Topological Sort
 |  |
 | ------- |
