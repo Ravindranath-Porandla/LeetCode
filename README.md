@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2645-pass-the-pillow](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1879-maximum-score-from-removing-stones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [2645-pass-the-pillow](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 ## Breadth-First Search
 |  |
