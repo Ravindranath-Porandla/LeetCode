@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0801-is-graph-bipartite](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
