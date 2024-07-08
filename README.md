@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1642-water-bottles) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3212-count-the-number-of-good-partitions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3212-count-the-number-of-good-partitions) |
 ## Breadth-First Search
@@ -220,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
