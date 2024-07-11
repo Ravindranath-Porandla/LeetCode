@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Counting
 |  |
@@ -246,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
