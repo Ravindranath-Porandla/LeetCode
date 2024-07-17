@@ -12,39 +12,36 @@
  */
 class Solution {
 public:
-    TreeNode* deleteHelper(TreeNode* root, unordered_set<int>& st,
-                           vector<TreeNode*>& ans) {
+    TreeNode* solve(TreeNode* root, vector<TreeNode*>& ans,
+                    unordered_set<int>& st) {
         if (root == nullptr)
             return nullptr;
 
-        root -> left = deleteHelper(root->left, st, ans);
-        root -> right = deleteHelper(root->right, st, ans);
+        root->left = solve(root->left, ans, st);
+        root->right = solve(root->right, ans, st);
 
         if (st.find(root->val) != st.end()) {
-            if (root->left != nullptr)
+            if (root->left != nullptr) {
                 ans.push_back(root->left);
-            if (root->right != nullptr)
+                root->left = nullptr;
+            }
+            if (root->right != nullptr) {
                 ans.push_back(root->right);
-
+                root->right = nullptr;
+            }
             return nullptr;
-        } else {
-            return root;
         }
+        return root;
     }
     vector<TreeNode*> delNodes(TreeNode* root, vector<int>& to_delete) {
         vector<TreeNode*> ans;
-
         unordered_set<int> st;
-
-        for (auto i : to_delete) {
-            st.insert(i);
+        for (int node : to_delete) {
+            st.insert(node);
         }
-
-        deleteHelper(root, st, ans);
-
-        if (st.find(root->val) == st.end()) {
+        if (st.find(root->val) == st.end())
             ans.push_back(root);
-        }
+        solve(root, ans, st);
         return ans;
     }
 };
