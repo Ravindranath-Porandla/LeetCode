@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Data Stream
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Topological Sort
 |  |
