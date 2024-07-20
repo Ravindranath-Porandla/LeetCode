@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -276,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
