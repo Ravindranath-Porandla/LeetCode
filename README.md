@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2846-robot-collisions) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Linked List
 |  |
 | ------- |
@@ -279,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
