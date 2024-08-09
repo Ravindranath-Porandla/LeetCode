@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0870-magic-squares-in-grid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1127-last-stone-weight) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
+| [0870-magic-squares-in-grid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1642-water-bottles) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
