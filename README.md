@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
