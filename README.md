@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0801-is-graph-bipartite) |
