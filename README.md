@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0725-split-linked-list-in-parts](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
