@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
