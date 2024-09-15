@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
+| [1170-shortest-common-supersequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
