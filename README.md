@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0125-valid-palindrome) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0063-unique-paths-ii) |
