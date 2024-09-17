@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1127-last-stone-weight) |
 | [1196-filling-bookcase-shelves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2035-count-sub-islands) |
