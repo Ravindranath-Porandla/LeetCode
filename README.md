@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0733-flood-fill) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1170-shortest-common-supersequence) |
