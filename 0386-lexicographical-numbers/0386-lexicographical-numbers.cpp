@@ -1,18 +1,22 @@
 class Solution {
 public:
-    static bool cmp(int a, int b){
-        string s1 = to_string(a);
-        string s2 = to_string(b);
+    void solve(int num, int n, vector<int>& res){
+        if(num > n)
+            return;
+        res.push_back(num);
 
-        if(s1 < s2)   return true;
-        else        return false;
+        for(int i = 0; i <= 9; i++){
+            int newNum = num * 10 + i;
+            if(newNum > n)  return;
+            solve(newNum, n, res);
+        }
     }
     vector<int> lexicalOrder(int n) {
-        vector<int> arr;
-        for(int i = 1; i <= n; i++){
-            arr.push_back(i);
+        vector<int> res;
+        for(int i = 1; i <= 9; i++){
+            solve(i, n, res);
         }
-        sort(arr.begin(), arr.end(), cmp);
-        return arr;
+
+        return res;
     }
 };
