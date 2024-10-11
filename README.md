@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2155-find-missing-observations) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1962-single-threaded-cpu](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2803-modify-graph-edge-weights) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2502-sort-the-people) |
