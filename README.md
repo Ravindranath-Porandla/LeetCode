@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1962-single-threaded-cpu](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1962-single-threaded-cpu](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2803-modify-graph-edge-weights](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2803-modify-graph-edge-weights) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2636-maximum-subsequence-score](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Union Find
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
@@ -658,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Memoization
 |  |
 | ------- |
