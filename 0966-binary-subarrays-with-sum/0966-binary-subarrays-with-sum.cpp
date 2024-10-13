@@ -1,18 +1,26 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int k) {
+    int findSubArrays(vector<int>& nums, int goal) {
         int n = nums.size();
-        int preSum = 0;
-        int ans = 0;
-        unordered_map<int, int> mp;
-        mp[0] = 1;
+        int left = 0;
+        int right = 0;
+        int sum = 0;
+        int cnt = 0;
 
-        for (int i = 0; i < n; i++) {
-            preSum += nums[i];
-            int remove = preSum - k;
-            ans += mp[remove];
-            mp[preSum]++;
+        while (right < n) {
+            sum += nums[right];
+
+            while (sum > goal && left <= right) {
+                sum -= nums[left];
+                left++;
+            }
+
+            cnt += right - left + 1;
+            right++;
         }
-        return ans;
+        return cnt;
+    }
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        return findSubArrays(nums, goal) - findSubArrays(nums, goal - 1);
     }
 };
