@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3451-string-compression-iii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
