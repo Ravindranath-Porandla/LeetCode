@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
