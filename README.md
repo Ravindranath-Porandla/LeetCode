@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2625-increment-submatrices-by-one](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2625-increment-submatrices-by-one](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Merge Sort
 |  |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2625-increment-submatrices-by-one](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 ## Memoization
 |  |
 | ------- |
