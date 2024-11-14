@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0120-triangle) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0127-word-ladder) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
