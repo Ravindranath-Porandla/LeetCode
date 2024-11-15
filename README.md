@@ -927,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
