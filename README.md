@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0242-valid-anagram) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0432-all-oone-data-structure) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
