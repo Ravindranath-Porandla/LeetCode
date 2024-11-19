@@ -14,28 +14,48 @@ public:
 };
 */
 
+void insertCopyNodesInBetween(Node* head) {
+    Node* temp = head;
+    while (temp != NULL) {
+        Node* copyNode = new Node(temp->val);
+        copyNode->next = temp->next;
+        temp->next = copyNode;
+        temp = temp->next->next;
+    }
+}
+
+void pointRandomNodes(Node* head) {
+    Node* temp = head;
+    while (temp != NULL) {
+        Node* copyNode = temp->next;
+        if (temp->random) {
+            copyNode->random = temp->random->next;
+        } else {
+            copyNode->random = NULL;
+        }
+        temp = temp->next->next;
+    }
+}
+
+Node* getDeepCopyList(Node* head) {
+    Node* dummy = new Node(-1);
+    Node* temp = head;
+    Node* res = dummy;
+
+    while (temp != NULL) {
+        res->next = temp->next;
+        temp->next = temp->next->next;
+        res = res->next;
+        temp = temp->next;
+    }
+    return dummy->next;
+}
+
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        Node* temp = head;
-
-        unordered_map<Node*, Node*> mp;
-
-        while (temp != NULL) {
-            Node* newNode = new Node(temp->val);
-            mp[temp] = newNode;
-            temp = temp->next;
-        }
-
-        temp = head;
-
-        while (temp != NULL) {
-            Node* copy = mp[temp];
-            copy->next = mp[temp->next];
-            copy->random = mp[temp->random];
-            temp = temp->next;
-        }
-
-        return mp[head];
+        insertCopyNodesInBetween(head);
+        pointRandomNodes(head);
+        return getDeepCopyList(head);
     }
 };
