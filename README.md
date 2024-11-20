@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
