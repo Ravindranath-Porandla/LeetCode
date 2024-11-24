@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0053-maximum-subarray) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0055-jump-game) |
@@ -975,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
