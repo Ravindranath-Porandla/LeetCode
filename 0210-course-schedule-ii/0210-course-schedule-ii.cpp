@@ -1,45 +1,43 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = numCourses;
-        vector<vector<int>> adj(n);
-
-        for (auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]);
-        }
-
-        vector<int> topo;
-        queue<int> q;
-
+    vector<int> findOrder(int n, vector<vector<int>>& pre) {
+        unordered_map<int, vector<int>> adj;
         vector<int> inDeg(n, 0);
 
-        for (int i = 0; i < n; i++) {
-            for (auto it : adj[i]) {
-                inDeg[it]++;
-            }
+        for (auto& x : pre) {
+            int v = x[0];
+            int u = x[1];
+            adj[u].push_back(v);
+            inDeg[v]++;
         }
 
+        queue<int> q;
+        vector<int> res;
+
         for (int i = 0; i < n; i++) {
-            if (inDeg[i] == 0) {
+            if (!inDeg[i]) {
                 q.push(i);
+                res.push_back(i);
             }
         }
 
         while (!q.empty()) {
-            int front = q.front();
+            int u = q.front();
             q.pop();
 
-            topo.push_back(front);
-
-            for (auto it : adj[front]) {
-                inDeg[it]--;
-                if (inDeg[it] == 0) {
-                    q.push(it);
+            for (auto& v : adj[u]) {
+                inDeg[v]--;
+                if (!inDeg[v]) {
+                    q.push(v);
+                    res.push_back(v);
                 }
             }
         }
 
-        if(topo.size() == n)    return topo;
-        else    return {};
+        if (res.size() == n) {
+            return res;
+        }
+
+        return {};
     }
 };
