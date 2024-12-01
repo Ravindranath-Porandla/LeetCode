@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
