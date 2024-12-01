@@ -1,43 +1,39 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
+    bool isCycle(int u, vector<int>& vis, vector<int>& inRec,
+                 unordered_map<int, vector<int>>& adj) {
+        vis[u] = 1;
+        inRec[u] = 1;
 
-        for (auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]);
-        }
-
-        vector<int> inDeg(numCourses, 0);
-
-        for (int i = 0; i < numCourses; i++) {
-            for (auto it : adj[i]) {
-                inDeg[it]++;
+        for(auto &v : adj[u]){
+            if(!vis[v] && isCycle(v, vis, inRec, adj)){
+                return true;
+            } else if(inRec[v]){
+                return true;
             }
         }
 
-        queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (inDeg[i] == 0) {
-                q.push(i);
-            }
-        }
-
-        vector<int> topo;
-        while (!q.empty()) {
-            int front = q.front();
-            q.pop();
-            topo.push_back(front);
-
-            for (auto it : adj[front]) {
-                inDeg[it]--;
-                if (inDeg[it] == 0) {
-                    q.push(it);
-                }
-            }
-        }
-
-        if (topo.size() == numCourses)
-            return true;
+        inRec[u] = 0;
         return false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        unordered_map<int, vector<int>> adj;
+
+        for (auto& x : prerequisites) {
+            int v = x[0];
+            int u = x[1];
+            adj[u].push_back(v);
+        }
+
+        vector<int> vis(numCourses, 0);
+        vector<int> inRec(numCourses, 0);
+
+        for (int i = 0; i < numCourses; i++) {
+            if (isCycle(i, vis, inRec, adj)) {
+                return false;
+            }
+        }
+
+        return true;
     }
 };
