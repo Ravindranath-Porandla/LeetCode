@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2035-count-sub-islands) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
