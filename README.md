@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1803-average-waiting-time) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
