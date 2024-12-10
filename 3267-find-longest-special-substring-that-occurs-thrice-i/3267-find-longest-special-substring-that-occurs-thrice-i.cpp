@@ -1,5 +1,17 @@
 class Solution {
 public:
+    bool isPossible(string str) {
+        char ch = str[0];
+        int n = str.size();
+
+        for (int i = 1; i < n; i++) {
+            if (str[i] != ch) {
+                return false;
+            }
+        }
+
+        return true;
+    }
     int maximumLength(string s) {
         unordered_map<string, int> mp;
         int n = s.size();
@@ -10,7 +22,7 @@ public:
             for (int j = i; j < n; j++) {
                 str.push_back(s[j]);
 
-                if (str.find_first_not_of(str[0]) == string::npos) {
+                if (isPossible(str)) {
                     mp[str]++;
                 }
             }
