@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0859-design-circular-deque) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -1120,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
