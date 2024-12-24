@@ -1,31 +1,30 @@
 class Solution {
 public:
-    int solve(int idx, int can_rob, vector<int>& nums, vector<vector<int>>& dp){
-        if(idx == 0){
-            if(can_rob){
-                return nums[0];
-            } else {
-                return 0;
-            }
-        }
+    // int solve(int idx, vector<int>& nums){
+    //     if(idx == 0)
+    //         return nums[0];
+    //     if(idx < 0)
+    //         return 0;
 
-        if(dp[idx][can_rob] != -1)
-            return dp[idx][can_rob];
+    //     int rob = nums[idx] + solve(idx - 2, nums);
+    //     int cannot_rob = solve(idx - 1, nums);
 
-        int profit = INT_MIN;
-
-        if(can_rob){
-            profit = max(nums[idx] + solve(idx - 1, 0, nums, dp), 
-                            solve(idx - 1, 1, nums, dp));
-        } else {
-            profit = solve(idx - 1, 1, nums, dp);
-        }
-
-        return dp[idx][can_rob] = profit;
-    }
+    //     return max(rob, cannot_rob);
+    // }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(2, -1));
-        return solve(n - 1, 1, nums, dp);
+        vector<int> dp(2, 0);
+        dp[0] = 0;
+        dp[1] = nums[0];
+
+        for(int idx = 2; idx <= n; idx++){
+            int rob = nums[idx - 1] + dp[(idx - 2) % 2];
+            int cannot_rob = dp[(idx - 1) % 2];
+
+            dp[idx % 2] = max(rob, cannot_rob);
+        }
+        //return solve(n - 1, nums);
+
+        return dp[n % 2];
     }
 };
