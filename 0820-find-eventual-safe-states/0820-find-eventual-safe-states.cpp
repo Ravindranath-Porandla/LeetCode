@@ -38,7 +38,7 @@ public:
                     q.push(it);
                 }
             }
-        }   
+        }
 
         sort(begin(topo), end(topo));
 
