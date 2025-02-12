@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0268-missing-number) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
