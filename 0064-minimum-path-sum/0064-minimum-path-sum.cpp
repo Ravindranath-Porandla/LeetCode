@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int solve(int row, int col, vector<vector<int>>& grid) {
-        if (row == 0 && col == 0) {
-            return grid[0][0];
-        }
+    // int solve(int row, int col, vector<vector<int>>& grid) {
+    //     if (row == 0 && col == 0) {
+    //         return grid[0][0];
+    //     }
 
-        int up = INT_MAX;
-        if (row - 1 >= 0)
-            up = grid[row][col] + solve(row - 1, col, grid);
-        int left = INT_MAX;
-        if (col - 1 >= 0)
-            left = grid[row][col] + solve(row, col - 1, grid);
+    //     int up = INT_MAX;
+    //     if (row - 1 >= 0)
+    //         up = grid[row][col] + solve(row - 1, col, grid);
+    //     int left = INT_MAX;
+    //     if (col - 1 >= 0)
+    //         left = grid[row][col] + solve(row, col - 1, grid);
 
-        return min(up, left);
-    }
+    //     return min(up, left);
+    // }
     int minPathSum(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
