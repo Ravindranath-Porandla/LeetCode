@@ -1,48 +1,53 @@
 class Solution {
 public:
-    // int solve(int idx, vector<int>& coins, int amount,
-    //           vector<vector<int>>& dp) {
+    // int solve(int idx, vector<int>& coins, int amount) {
     //     if (idx == 0) {
-    //         if ((amount % coins[0]) == 0) {
+    //         if (amount % coins[0] == 0) {
     //             return amount / coins[0];
     //         } else {
     //             return 1e9;
     //         }
     //     }
 
-    //     if (dp[idx][amount] != -1)
-    //         return dp[idx][amount];
+    //     // pick
+    //     int pick = 1e9;
+    //     if (amount >= coins[idx]) {
+    //         pick = 1 + solve(idx, coins, amount - coins[idx]);
+    //     }
 
-    //     int not_pick = solve(idx - 1, coins, amount, dp);
-    //     int pick = INT_MAX;
-    //     if (coins[idx] <= amount)
-    //         pick = 1 + solve(idx, coins, amount - coins[idx], dp);
+    //     // not_pick
+    //     int not_pick = solve(idx - 1, coins, amount);
 
-    //     return dp[idx][amount] = min(not_pick, pick);
+    //     return min(pick, not_pick);
     // }
-    int coinChange(vector<int>& coins, int am) {
+    int coinChange(vector<int>& coins, int a) {
         int n = coins.size();
-        vector<vector<int>> dp(n, vector<int>(am + 1, -1));
-        // int ans = solve(n - 1, coins, amount, dp);
-        // return (ans == 1e9) ? -1 : ans;
+        //return solve(n - 1, coins, amount);
 
-        for (int amount = 0; amount <= am; amount++) {
-            if ((amount % coins[0]) == 0)
+        vector<vector<int>> dp(2, vector<int>(a + 1, 0));
+
+        for (int amount = 0; amount <= a; amount++) {
+            if (amount % coins[0] == 0) {
                 dp[0][amount] = amount / coins[0];
-            else
+            } else {
                 dp[0][amount] = 1e9;
+            }
         }
 
         for (int idx = 1; idx < n; idx++) {
-            for (int amount = 0; amount <= am; amount++) {
-                int not_pick = dp[idx - 1][amount];
-                int pick = INT_MAX;
-                if (coins[idx] <= amount)
-                    pick = 1 + dp[idx][amount - coins[idx]];
+            for (int amount = 0; amount <= a; amount++) {
+                int pick = 1e9;
+                if (amount >= coins[idx]) {
+                    pick = 1 + dp[idx % 2][amount - coins[idx]];
+                }
 
-                dp[idx][amount] = min(not_pick, pick);
+                // not_pick
+                int not_pick = dp[(idx - 1) % 2][amount];
+
+                dp[idx % 2][amount] = min(pick, not_pick);
             }
         }
-        return (dp[n - 1][am] == 1e9) ? -1 : dp[n - 1][am];
+
+        return dp[(n - 1) % 2][a] >= 1e9 ? -1 : dp[(n - 1) % 2][a];
     }
 };
