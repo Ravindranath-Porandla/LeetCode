@@ -21,7 +21,7 @@ public:
     // }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>> dp(n, vector<int>(n + 1, 0));
+        vector<vector<int>> dp(2, vector<int>(n + 1, 0));
         //return solve(n - 1, n, nums, dp);
 
         for (int prevIdx = 0; prevIdx <= n; prevIdx++) {
@@ -33,15 +33,15 @@ public:
             for (int prevIdx = 0; prevIdx <= n; prevIdx++) {
                 int pick = 0;
                 if (prevIdx == nums.size() || nums[prevIdx] > nums[currIdx]) {
-                    pick = 1 + dp[currIdx - 1][currIdx];
+                    pick = 1 + dp[(currIdx - 1) % 2][currIdx];
                 }
 
-                int not_pick = dp[currIdx - 1][prevIdx];
+                int not_pick = dp[(currIdx - 1) % 2][prevIdx];
 
-                dp[currIdx][prevIdx] = max(pick, not_pick);
+                dp[currIdx % 2][prevIdx] = max(pick, not_pick);
             }
         }
 
-        return dp[n - 1][n];
+        return dp[(n - 1) % 2][n];
     }
 };
