@@ -1,51 +1,40 @@
 class Solution {
 public:
-    void merge(vector<int>& count, vector<pair<int, int>>& v, int left, int mid,
-               int right) {
-        vector<pair<int, int>> tmp(right - left + 1);
-        int i = left;
-        int j = mid + 1;
-        int k = 0;
-
-        while (i <= mid && j <= right) {
-            if (v[i].first <= v[j].first) {
-                tmp[k++] = v[j++];
-            } else {
-                count[v[i].second] += right - j + 1;
-                tmp[k++] = v[i++];
-            }
+    int n;
+    vector<int> bit;
+    
+    void update(int val, int id){
+        while(id <= n){
+            bit[id] += val;
+            id += (id & -id);
         }
-        while (i <= mid) {
-            tmp[k++] = v[i++];
-        }
-        while (j <= right) {
-            tmp[k++] = v[j++];
-        }
-        for (int i = left; i <= right; i++)
-            v[i] = tmp[i - left];
     }
 
-    void mergeSort(vector<int>& count, vector<pair<int, int>>& v, int left,
-                   int right) {
-        if (left >= right)
-            return;
-
-        int mid = left + (right - left) / 2;
-        mergeSort(count, v, left, mid);
-        mergeSort(count, v, mid + 1, right);
-        merge(count, v, left, mid, right);
+    int query(int id){
+        int ans = 0;
+        while(id > 0){
+            ans += bit[id];
+            id -= (id & -id);
+        }
+        return ans;
     }
-
     vector<int> countSmaller(vector<int>& nums) {
-        int N = nums.size();
+        n = nums.size();
+        bit.resize(n + 1, 0);
+        vector<pair<int, int>> vec;
+        for(int i = 0; i < n; i++){
+            vec.push_back({nums[i], i});
+        }
 
-        vector<pair<int, int>> v(N);
-        for (int i = 0; i < N; i++)
-            v[i] = make_pair(nums[i], i);
+        sort(vec.begin(), vec.end());
 
-        vector<int> count(N, 0);
-        mergeSort(count, v, 0, N - 1);
+        vector<int> res(n, 0);
 
-        return count;
+        for(auto v : vec){
+            update(1, v.second + 1);
+            res[v.second] = query(n) - query(v.second + 1);
+        }
+
+        return res;
     }
 };
