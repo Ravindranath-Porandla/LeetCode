@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
+        // LINE SWEEP (OR)  DIFFERENCE ARRAY TECHNIQUE
         int n = nums.size();
         vector<int> line_sweep(n, 0);
 
