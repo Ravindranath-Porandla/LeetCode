@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -990,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0507-perfect-number) |
@@ -1379,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
