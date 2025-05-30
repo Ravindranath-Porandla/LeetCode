@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1149,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
