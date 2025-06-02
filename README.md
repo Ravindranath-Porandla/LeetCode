@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0198-house-robber) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
