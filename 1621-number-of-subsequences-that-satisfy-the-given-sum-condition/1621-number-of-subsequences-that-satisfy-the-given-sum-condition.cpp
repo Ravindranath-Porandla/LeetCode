@@ -1,28 +1,27 @@
 class Solution {
 public:
     int numSubseq(vector<int>& nums, int target) {
-        const int MOD = 1e9 + 7;
-
+        int mod = 1e9 + 7;
+        int n = nums.size();
+        int left = 0;
+        int right = n - 1;
         sort(nums.begin(), nums.end());
-
-        vector<int> pow2(nums.size(), 1);
-        for (int i = 1; i < nums.size(); i++) {
-            pow2[i] = (pow2[i - 1] * 2) % MOD;
+        vector<int> power(n, 1);
+        
+        // Precompute powers of 2 up to n modulo mod
+        for (int i = 1; i < n; ++i) {
+            power[i] = (power[i - 1] * 2) % mod;
         }
 
-        int l = 0;
-        int r = nums.size() - 1;
-        int ans = 0;
-
-        while (l <= r) {
-            if (nums[l] + nums[r] <= target) {
-                ans = (ans + pow2[r - l]) % MOD;
-                l++;
+        long long ans = 0;
+        while (left <= right) {
+            if (nums[left] + nums[right] <= target) {
+                ans = (ans + power[right - left]) % mod;
+                left++;
             } else {
-                r--;
+                right--;
             }
         }
-
-        return ans;
+        return (int)ans;
     }
 };
