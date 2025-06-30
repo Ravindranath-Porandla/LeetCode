@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1552,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
