@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0948-sort-an-array) |
@@ -1347,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1549,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1013-fibonacci-number) |
