@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers">2882. Ways to Express an Integer as Sum of Powers</a></h2><h3>Medium</h3><hr><p>Given two <strong>positive</strong> integers <code>n</code> and <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers">Ways to Express an Integer as Sum of Powers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given two <strong>positive</strong> integers <code>n</code> and <code>x</code>.</p>
 
 <p>Return <em>the number of ways </em><code>n</code><em> can be expressed as the sum of the </em><code>x<sup>th</sup></code><em> power of <strong>unique</strong> positive integers, in other words, the number of sets of unique integers </em><code>[n<sub>1</sub>, n<sub>2</sub>, ..., n<sub>k</sub>]</code><em> where </em><code>n = n<sub>1</sub><sup>x</sup> + n<sub>2</sub><sup>x</sup> + ... + n<sub>k</sub><sup>x</sup></code><em>.</em></p>
 
