@@ -1128,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -1407,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
