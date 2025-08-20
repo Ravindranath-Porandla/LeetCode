@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones">1402. Count Square Submatrices with All Ones</a></h2><h3>Medium</h3><hr><p>Given a <code>m * n</code> matrix of ones and zeros, return how many <strong>square</strong> submatrices have all ones.</p>
+<h2><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones">Count Square Submatrices with All Ones</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a <code>m * n</code> matrix of ones and zeros, return how many <strong>square</strong> submatrices have all ones.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
