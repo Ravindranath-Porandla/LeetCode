@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1642-water-bottles) |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0787-sliding-puzzle) |
