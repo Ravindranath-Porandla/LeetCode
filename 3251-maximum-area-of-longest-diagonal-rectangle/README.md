@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle">3251. Maximum Area of Longest Diagonal Rectangle</a></h2><h3>Easy</h3><hr><p>You are given a 2D <strong>0-indexed </strong>integer array <code>dimensions</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle">Maximum Area of Longest Diagonal Rectangle</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a 2D <strong>0-indexed </strong>integer array <code>dimensions</code>.</p>
 
 <p>For all indices <code>i</code>, <code>0 &lt;= i &lt; dimensions.length</code>, <code>dimensions[i][0]</code> represents the length and <code>dimensions[i][1]</code> represents the width of the rectangle<span style="font-size: 13.3333px;"> <code>i</code></span>.</p>
 
