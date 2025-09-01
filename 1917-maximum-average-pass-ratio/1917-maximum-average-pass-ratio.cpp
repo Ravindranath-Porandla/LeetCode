@@ -1,33 +1,30 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        auto gain = [](double pass, double total) {
-            return (pass + 1) / (total + 1) - pass / total;
+
+        auto gain = [](int p, int t) {
+            return (double)(p + 1) / (t + 1) - (double)p / t;
         };
 
-        priority_queue<pair<double, pair<int, int>>> maxHeap;
-
-        double sum = 0.0;
-
-        for (const auto& cls : classes) {
-            int pass = cls[0], total = cls[1];
-            sum += (double)pass / total;
-            maxHeap.push({gain(pass, total), {pass, total}});
+        priority_queue<tuple<double, int, int>> pq;
+        for (auto& c : classes) {
+            pq.push({gain(c[0], c[1]), c[0], c[1]});
         }
 
-        for (int i = 0; i < extraStudents; ++i) {
-            auto [currentGain, data] = maxHeap.top();
-            maxHeap.pop();
-            int pass = data.first, total = data.second;
-
-            sum -= (double)pass / total;
-            pass += 1;
-            total += 1;
-            sum += (double)pass / total;
-
-            maxHeap.push({gain(pass, total), {pass, total}});
+        while (extraStudents--) {
+            auto [g, p, t] = pq.top();
+            pq.pop();
+            p++, t++;
+            pq.push({gain(p, t), p, t});
         }
 
-        return sum / classes.size();
+        double total = 0.0;
+        while (!pq.empty()) {
+            auto [g, p, t] = pq.top();
+            pq.pop();
+            total += (double)p / t;
+        }
+
+        return total / classes.size();
     }
 };
