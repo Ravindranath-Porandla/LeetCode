@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
