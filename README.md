@@ -1315,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
