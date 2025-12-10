@@ -1,37 +1,38 @@
 class LRUCache {
-    list<int> cache;
-    unordered_map<int, pair<int, list<int>::iterator>> mp;
-    int cap;
-
 public:
-    LRUCache(int capacity) { cap = capacity; }
+    list<int> dll;
+    unordered_map<int, pair<list<int>::iterator, int>> mp;
+    int capacity;
+    LRUCache(int capacity) { this->capacity = capacity; }
 
-    void makeThisMostRecent(int key) {
-        cache.erase(mp[key].second);
-        cache.push_front(key);
-        mp[key].second = cache.begin();
+    void MakeMostRecent(int key) {
+        dll.erase(mp[key].first);
+        dll.push_front(key);
+        mp[key].first = dll.begin();
     }
 
     int get(int key) {
-        if (mp.find(key) == mp.end())
-            return -1;
-        makeThisMostRecent(key);
-        return mp[key].first;
+        if (mp.find(key) != mp.end()) {
+            MakeMostRecent(key);
+            return mp[key].second;
+        }
+        return -1;
     }
 
     void put(int key, int value) {
         if (mp.find(key) != mp.end()) {
-            mp[key].first = value;
-            makeThisMostRecent(key);
+            mp[key].second = value;
+            MakeMostRecent(key);
         } else {
-            if (mp.size() == cap) {
-                int last = cache.back();
-                cache.pop_back();
-                mp.erase(last);
-            }
+            dll.push_front(key);
+            mp[key] = {dll.begin(), value};
+            capacity--;
+        }
 
-            cache.push_front(key);
-            mp[key] = {value, cache.begin()};
+        if (capacity < 0) {
+            capacity = 0;
+            mp.erase(dll.back());
+            dll.pop_back();
         }
     }
 };
