@@ -1018,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0740-delete-and-earn) |
+| [0756-pyramid-transition-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1163,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0812-rotate-string) |
@@ -1596,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1616,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
