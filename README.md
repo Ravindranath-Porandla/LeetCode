@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Ravindranath-Porandla/LeetCode/tree/master/0792-binary-search) |
